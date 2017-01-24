@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: derbyclient:derbyclient:1.8.0_74">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/derbyclient/derbyclient/1.8.0_74/derbyclient-1.8.0_74.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/derbyclient/derbyclient/1.8.0_74/derbyclient-1.8.0_74-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/derbyclient/derbyclient/1.8.0_74/derbyclient-1.8.0_74-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
